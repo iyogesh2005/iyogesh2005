@@ -8,7 +8,7 @@ I'm a Computer Science and Engineering graduate passionate about building modern
 - 🌱 Learning and improving my skills in React.js, Node.js, Express.js, and MongoDB
 - 💻 Interested in frontend development and backend API development
 - 🚀 Portfolio: "Visit My Portfolio" (https://portfolio-yogesh2005.netlify.app)
-- 📫 Email: yogesh2005@gmail.com
+- 📫 Email: iyogesh2005@gmail.com
 
 ---
 
